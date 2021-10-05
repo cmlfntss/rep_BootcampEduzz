@@ -1,0 +1,38 @@
+QUEM É O PO?
+
+Representa o profissional que tem a visão do que será desenvolvido, as necessidades a serem atendidas, o público que vai utilizar os serviços e os objetivos a serem alcançados.
+Além disso, caso os objetivos não sejam alcançados o PO poderá cancelar as sprints.
+
+O PO e SM não são chefes do time de desenvolvimento.
+
+O PO tem o papel de trazer o máximo de valor ao projeto, tornando e garantindo que o time DEV entenda os itens no nível necessário.
+
+Na Sprint o PO tem participação obrigatória nas cerimônias de planning e review, participação na daily não é obrigatória.
+
+PO não julga dúvida, se houve dúvida é porque não ficou claro.
+
+PO não deve aguardar até a review para validar a entrega.
+
+REFINING E PLANNING
+
+Na refining é mostrada ao time o que será desenvolvido de de maneira prévia.
+
+Na planning é importante que não haja dúvidas, ela é dividida em três etapas.
+O time de dev não deverá ter e fazer suposição de nada.
+
+A segunda etapa da planning não há participação do PO, é uma parte mais técnica para que o time de DEV consiga colocar as opiniões de forma técnica viabilizando as histórias para entrega das sprints.
+
+RELEASE PLANNING
+
+Liberação ou lançamento do software, é o lançamento de uma nova ver~soa oficial do produto de software. Cada vez que um produto de software é criado ou modificado, o fabricante e seus desenvolvedores decidem sobre como distribuir ou o novo produto ou a modificação às pessoas que o utilizam.
+
+
+RELEASE PLANNING
+
+Existem dois tipos, sendo release planning de múltiplas squads: 
+Vários times de dev aplicados fazendo tarefas que se complementam em várias entregas que no final se complementa e são juntadas ao final do projeto, o PO deve ficar atento a entrega do código.
+
+Release Planning de Projeto: Ocorre a quebra em várias sprints, pois o PO deve avaliar mais coisas no espaço estabelecido, é identificado e sinalizado PO com maior nível de Senioridade.
+Objetivo do PO neste caso é sinalizar o stakeholder sinalizando que é um projeto complexo, da demora e etc.
+
+
