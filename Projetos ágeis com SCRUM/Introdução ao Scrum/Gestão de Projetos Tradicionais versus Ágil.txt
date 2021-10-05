@@ -1,0 +1,11 @@
+Diferenças entre Gestão de Projetos Tradicionais x Ágil
+
+Mencionado modelo da startup Nubank que se tornou uma unicórnio para explicar a diferença de forma prática entre PT e Ágil.
+
+No Gestão de Projetos Tradicionais:
+Se demanda muito tempo para viabilizar o projeto, sem mostrar isso ao Stakeholder e ao PO.
+
+
+Já no Ágil:
+O processo de criação de seu produto iniciou em cartão de crédito em que foi entregue inicialmente um Produto Mínimo Viável, e a partir disso implementado novas funcionalidades/melhorias ainda mais por se possuir uma opinião de seus clientes de forma prática.
+Agregando assim maior valor ao ciente.
