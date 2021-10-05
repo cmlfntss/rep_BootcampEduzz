@@ -1,0 +1,43 @@
+CERIMÔNIA DO SCRUM
+
+Tempo máximo para fazer uma cerimônia ou sprint (time box) - São feitas reuniões nesse modelo em no MÁXIMO 
+
+
+SPRINT - Principal evento do scrum, no máximo em 30 duas corridos.
+
+COMPOSIÇÃO SPRINT:
+- PLANEJAMENTO SPRINT;
+- REUNIÕES DIÁRIAS (DAILY MEETING); (15 MINUTOS)
+- REVISÃO DA SPRINT (REVIEW);
+- RETROSPECTIVA DA SPRINT.
+
+PLANEJAMENTO DA SPRINT
+
+- Feito no primeiro dia da sprint, participam: PO, SM, time DEV, reunião de 8 horas, para sprint com objetivos de 30 dias tempo máximo.
+São definidos o que fazer e como fazer, explicado pelo PO. (nas primeiras 4 horas)
+
+Nas demais horas de reunião, são realizados apenas com o time DEV, para estabelecer como entregar a sprint.
+
+PLANNING POKER - Cada um do time DEV estabelece o tempo de cada tarefa após sua divisão.
+
+REUNIÕES DIÁRIAS (DAILY MEETING)
+
+Participam: PO, SM e time DEV.
+Reunião sempre de pé no mesmo horário e local, dividida em: TO DO, DOING E DONE, o objetivo é manter o foco.
+
+
+REVIEW
+
+Ocorre no último dia da sprint, onde o time dev aprensenta para o PO o trabalho feito, duração de 4 horas de reunião.
+O PO pode levar os stakeholders e etc.
+Neste momento não são feitas melhorias, o PO apenas sinaliza se aceita ou não o que foi feito/está sendo entregue.
+
+RETROSPECTIVA DA SPRINT
+
+Reunião da equipe para Lições Aprendidas, sendo transparência para opontar erros para resolução de todos os pontos do projeto para que não ocorram mais os erros nos próximos projetos.
+Tempo de 3 horas para sprint de 30 dias.
+
+
+
+
+
