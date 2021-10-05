@@ -1,0 +1,6 @@
+Product Owner (PO) - Representa área de negócios (pessoa), PO não é comitê, definie funcionalidades do software (PB), prioriza funcionalidades de acordo com valor do negócio e é ele que garante que o time de desenvolvimento entenda o que precisa ser feito para garantir essa funcionalidade.
+
+Scrum Master (SM) - Garante o uso correto do Scrum, o Scrum Master não é Gerente de Projetos, age como facilitador, auxilia o PO no planejamento e estimativas de backlog, auxilia a equipe a remover impedimentos que impactam no desenvolvimento do projeto, treina o time em autogerenciamento e interdisciplinaridade.
+
+Time de Desenvolvimento (DEV) - Habilitades para testar, desenvolver, criar e desenhar tudo que seja necessário para entregar o software funcionando.
+Essas tarefas são divididas pelo time, não é necessário que todo mundo faça tudo.
