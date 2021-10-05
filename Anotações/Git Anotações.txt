@@ -1,0 +1,16 @@
+Git Status:
+
+Verifica quais os estados que os arquivos estão. Se existe algum arquivo modificado, adiciona ou removido. Além disso, caso esteja rastreado com uma branch no servidor, verifica se a versão está a frente ou atrás da versão do servidor.
+
+Git add . ou Git -A
+
+Comando para adicionar os comandos dentro do seu repositório git, porém se faz a necessidade de commitar.
+
+Git commit -m "comente o seu commit"
+
+Adicione comentários coerentes.
+
+Git origin main
+
+Serve para enviar os arquivos locais para a nuvem.
+
