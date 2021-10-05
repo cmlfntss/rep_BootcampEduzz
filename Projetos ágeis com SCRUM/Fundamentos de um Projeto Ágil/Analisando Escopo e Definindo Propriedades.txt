@@ -1,0 +1,35 @@
+ANALISANDO ESCOPO E DEFININDO PRIORIDADES
+
+
+Aqui ocorre a definição do escopo do seu projeto, definindo ordem antes de como realizar este processo agregando sempre valor ao cliente.
+
+É importante inspecionar, validar com o cliente afim de garantir que há essa validação sempre por parte do cliente.
+
+O PRODUCT BACKLOG É COMPOSTO POR ÉPICOS E ESTÓRIAS.
+
+
+ÉPICOS = Incremento sem muito detalhamento ajuda a te direcionar quais caminhos deve seguir.
+
+Estória = Detalhamento dos épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer e suas regras de negócio.
+
+COMO ESCREVER UMA ESTÓRIA?
+
+- Nome da estória
+- Descrição da estória (eu, como, quero, quando)
+- Regras de Negócio (separar regras front e back)
+- Tela (link ou umagem das telas a serem desenvolvidas)
+- KPI (quais objetivos/valor a estória precisa atingir)
+- Tagueamento (como a estória será tagueada para poder mensurar os KPI)
+- Critérios de Aceite (Qual o passo a passo de todos os caminhos felizes e possíveis a estória deve cumprir para que ela seja considerada aceita)
+
+
+
+GESTÃO DE RISCOS EM PROJETOS ÁGEIS
+
+POSITIVOS - Ignorados nos projetos, porém um dos fatores de maiores ganhos de desenvolvimentos de sistemas.
+
+
+NEGATIVOS - Itens que podem afetar o prazo, custo ou escopo de um projeto de maneira que pode acabar inviabilizando-o.
+
+
+
